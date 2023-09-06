@@ -1,5 +1,5 @@
 {
-  "name": "https://todo-list-for-mindbox.vercel.app/login",
+  "name": "todolist-ts",
   "jest": {
     "moduleNameMapper": {
       "axios": "axios/dist/node/axios.cjs"
